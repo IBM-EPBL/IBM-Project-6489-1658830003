@@ -1,8 +1,8 @@
 # IBM-Project-6489-1658830003
-AI-powered Nutrition Analyzer for Fitness Enthusiasts
+### AI-powered Nutrition Analyzer for Fitness Enthusiasts
 
-#Team Member
-1.JaiSurya - Team Leader
-2.Kathiravan
-3.Kabilan
-4.Ragashanmugam
+## Team Member <br/>
+1.JaiSurya - Team Leader <br/>
+2.Kathiravan <br/>
+3.Kabilan <br/>
+4.Ragashanmugam <br/>
